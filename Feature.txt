@@ -1,0 +1,7 @@
+The QR code generator app is a simple GUI application built using Python and Tkinter. The purpose of this app is to allow users to easily generate QR codes for a given URL.
+
+The app has a single entry field where the user can enter the URL that they want to generate a QR code for. The user can then press the "Generate" button, which will save the QR code as a PNG image file on their system. The user will be prompted to choose a location to save the file using a save file dialog.
+
+Once the QR code is generated, a success message is displayed to the user. The generated QR code can be scanned using a smartphone or other QR code scanning device to access the URL.
+
+This app is a useful tool for anyone who wants to quickly generate QR codes for websites or other URLs. It is simple and easy to use, making it accessible for users of all skill levels.
